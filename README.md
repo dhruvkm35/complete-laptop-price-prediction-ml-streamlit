@@ -26,7 +26,7 @@ This project predicts the price of a laptop based on its hardware and software c
 
 ## 🔹 Screenshots
 
-*(Add screenshots of your Streamlit app here)*
+![Laptop Price Prediction App](https://github.com/dhruvkm35/complete-laptop-price-prediction-ml-streamlit/blob/f6f83f3d58a626875c38157097a21f107b46c095/img1.jpg)
 
 ## 🔹 Future Improvements
 
