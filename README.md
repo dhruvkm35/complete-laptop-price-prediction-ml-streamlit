@@ -1,4 +1,4 @@
-# complete-laptop-price-prediction-ml-streamlit
+# Complete-laptop-price-prediction-ml-streamlit
 Laptop Price Prediction using Machine Learning with an interactive Streamlit web app.
 # 💻 Laptop Price Prediction
 
