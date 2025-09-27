@@ -24,25 +24,6 @@ This project predicts the price of a laptop based on its hardware and software c
 * **Streamlit** for web app development
 * **Pickle** for model serialization
 
-## 🔹 How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/laptop-price-prediction.git
-   cd laptop-price-prediction
-   ```
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Streamlit app:
-
-   ```bash
-   streamlit run app.py
-   ```
-
 ## 🔹 Screenshots
 
 *(Add screenshots of your Streamlit app here)*
